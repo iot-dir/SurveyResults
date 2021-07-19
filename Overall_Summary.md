@@ -15,7 +15,8 @@ We also discussed the average frequency of reviews for IOT-directorate members. 
 # Other observation/outcomes
 
 
-* The charter needs an update and should be in-line with what the group does. Many express interests in helping out more than reviews; the expectations are that this group helps align IOT related activities within IETF.
+* The charter needs an update and should be in-line with what the group does. 
+* Many express interests in helping out more than reviews; the expectations are that this group helps align IOT related activities within IETF.
 * Some commented that the reviews should be limited to IoT-related drafts
 * Some commented on pre-IETF timing issue (too early for West coast) -- Co-chairs moved the pre-IETF-111 meeting time a little later
 * Other suggestions:The pre-meeting could use the time for more discussion and making decisions etc.
