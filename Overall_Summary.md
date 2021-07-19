@@ -1,14 +1,8 @@
 # Overall Summary and Outcomes
 
 Overall, folks are happy with IOT-directorate performance. There are some constructive comments/suggestions to think about.
-IoT-Directorates co-chairs and ADs have met and analysed the survey results together and as a result
-
-some action items have been identified.
-
-
-We also discussed the average frequency of reviews for IOT-directorate members. Please see the following 
-
-summary of observations and outcomes.
+IoT-Directorates co-chairs and ADs have met and analysed the survey results together and as a result some action items have been identified. 
+We also discussed the average frequency of reviews for IOT-directorate members. Please see the following the summary of observations and outcomes.
 
 
    * In general, for most of the respondents the charter is clear. 
